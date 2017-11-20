@@ -19,11 +19,11 @@ ms.lasthandoff: 10/05/2017
 ---
 # <a name="sql-server-on-linux"></a>SQL Server no Linux
 
-SQL Server 2017 agora é executado no Linux. É o mesmo mecanismo de banco de dados do SQL Server, com muitos recursos e serviços, independentemente de seu sistema operacional semelhante.
+SQL Server 2017 agora é executado no Linux. É o mesmo mecanismo de banco de dados do SQL Server, porém, com uma maior variedade de recursos e serviços, indepedente do sistema operacional que esteja sendo executado em sua maquina.
 
 ## <a name="install"></a>Instalar
 
-Para começar, instale o SQL Server no Linux usando um dos seguintes tutoriais de início rápido:
+Para começar, instale o SQL Server no Linux usando os seguintes tutoriais abaixo:
 
 - [Instalar no Red Hat Enterprise Linux](quickstart-install-connect-red-hat.md)
 - [Instalar no SUSE Linux Enterprise Server](quickstart-install-connect-suse.md)
